@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+diffusers
+accelerate
+transformers
+google-genai
+streamlit
+replicate
+Pillow
+requests
+numpy
+opencv-python-headless
